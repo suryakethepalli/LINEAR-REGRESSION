@@ -22,4 +22,22 @@ Advertising_data.csv - the information on number of sales taken place through di
 
 LINEAR REGRESSION - SALES ESTIMATION PREDICTION.ipynb - contains python ML Code that gives us a graph between No.sales happend Through TV ads and total sales
 
+ML Tools OR Libraries used :
 
+1. Numpy 
+2. Pandas
+3. matplotlib
+4. Sk Learn (linear model)
+
+
+STEPS PERFORMED :
+1. Import the Libraries
+2. Import the dataset
+3. Understand the dataset
+4. Slicing the dataset
+5. Segregate and reshape the variables
+6. Scatter plot
+7. Divide the dataset into training and test set
+8. Perform the Linear Regression
+9. Check Prediction
+10. Visualize the regressor line
