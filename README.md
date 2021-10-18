@@ -20,5 +20,6 @@ FLIE'S DESCRIPTION :
 
 Advertising_data.csv - the information on number of sales taken place through different Advertising modes(TV, RADIO , NEWSPAPERS)
 
+LINEAR REGRESSION - SALES ESTIMATION PREDICTION.ipynb - contains python ML Code that gives us a graph between No.sales happend Through TV ads and totl sales , along with a graph.
 
 
