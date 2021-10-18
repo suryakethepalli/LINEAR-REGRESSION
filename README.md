@@ -17,6 +17,7 @@ It performs the task to predict a dependent variable value (y) based on a given 
 
 
 FLIE'S DESCRIPTION :
+
 Advertising_data.csv - the information on number of sales taken place through different Advertising modes(TV, RADIO , NEWSPAPERS)
 
 
