@@ -6,4 +6,7 @@ It performs the task to predict a dependent variable value (y) based on a given 
 
 Problem Statement :- a company wants to increase its sells to a certain amount. Now the challenge is to find the amount of investment on advertisement that will result the gain in sells.
 
-To solve this problem we have to get the history of the investment and the sales value and prepair our dataset.
+To solve this problem we have to get the history of the investment and the sales value , all these information is prepared as a dataset
+DATA SET :- https://drive.google.com/file/d/1QHlD856U_Yt1IDDKD4sDUpvwkp9eWhJ7/view?usp=sharing
+
+
