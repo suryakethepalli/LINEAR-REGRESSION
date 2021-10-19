@@ -1,6 +1,6 @@
 # LINEAR-REGRESSION ON SALES ESTIMATION
 
-The goal of this project is to Predict the Future Sales that will be increased by investing on ADVERTISING on different platforms 
+The goal of this project is to Predict the Future Sales that will be increased by investing on ADVERTISING  on different platforms  such as (TV, RADIO, NEWSPAPER)
 
 Problem Statement :- a company wants to increase its sells to a certain amount. Now the challenge is to find the amount of investment on advertisement that will result the gain in sells.
 
